@@ -45,6 +45,12 @@ Os testes unitários, indicando quais testes passaram ou falharam.
 Segue exemplo:
 |![](./gifs/padrao.png)
 ### Executando os Testes em Modo Verbose
+
+Ao executar o comando:
+
+```bash
+pytest -v
+```
 No modo verbose, você verá informações detalhadas sobre cada teste, com o nome do teste, o resultado, e o tempo de execução.  
 Segue exemplo:
 |![](./gifs/verbose.png)
